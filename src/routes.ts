@@ -7,4 +7,4 @@ router.post('/user', (req, res) => {
     return createContactController.handle(req, res)
 });
 
-export {router}
+export {router} 
